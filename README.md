@@ -6,10 +6,10 @@
 Besides that, we also analyzed the traffic by weather.
 
 ### Used tools
-*   Colab;
-*   Spyder;
-*   Jupyter;
-*   Anaconda - 3.
+*   [Google Colab] (https://colab.research.google.com/);
+*   [Spyder IDE] (https://www.spyder-ide.org/);
+*   [Jupyter] (https://jupyter.org/);
+*   [Anaconda - 3] (https://www.anaconda.com/products/individual).
 
 ### Author
 *   Pedro Henrique
