@@ -1,4 +1,4 @@
-# Guided Project Finding Heavy Traffic Indicators on I-94
+# Guided Project: Finding Heavy Traffic Indicators on I-94
 
 ### Project informations
 *   Solution to the guided project Finding Heavy Traffic Indicators on I-94 on [Dataquest](https://www.dataquest.io/)
